@@ -1,0 +1,17 @@
+{
+  "name": "batwa-oracle",
+  "version": "1.0.0",
+  "description": "INR/ETH oracle powered by Chainlink (probably)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batuaWallet/oracle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batuaWallet/oracle/issues"
+  },
+  "homepage": "https://github.com/batuaWallet/oracle#readme"
+}
